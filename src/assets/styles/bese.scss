@@ -10,6 +10,11 @@
     box-sizing: border-box;
     font-weight: normal;
 }
+body {
+    height: 100%;
+    width: 100%;
+    background-color: red;
+}
 /*修复img默认位置和IE边框*/
 img{
     vertical-align: top;
